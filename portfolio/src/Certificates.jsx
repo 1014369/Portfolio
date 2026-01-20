@@ -2,7 +2,7 @@ import "./App.css";
 
 const certificatesData = [
   {
-    title: "React Developer Certificate",
+    title: "Data Science",
     issuer: "Coursera",
     year: "2024",
     link: "https://your-certificate-link.com",

@@ -8,11 +8,9 @@ const Home = () => {
         {/* Left Info Section */}
         <div className="home-info">
           <h1>Sai Krishna</h1>
-          <h2>Aspiring Data Scientist | ML Engineer</h2>
+          <h2> Data Scientist | ML Engineer</h2>
           <p>
-            Data Science enthusiast with hands-on experience in ML, NLP, and
-            data visualization. Passionate about solving real-world problems
-            through data-driven insights.
+           Data Science and Machine Learning Engineering candidate with strong skills in Python ,Statistics, SQL,MangoDB, Machine Learning Deep Learning,NLP and Generative AI for real world problem solving.Proficient in data analyis and visualizations using Excel and PowerBI.
           </p>
           <p>Python • Pandas • scikit-learn • TensorFlow • SQL • NLP</p>
           <a href="/resume/Sai_Krishna_Resume.pdf" download>
